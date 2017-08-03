@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "BarcodeViewController.(viewDidLoad() -&gt; ()).(closure #1).(closure #2).(closure #1):BarcodeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField?.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BarcodeViewController.(viewDidLoad() -&gt; ()).(closure #1).(closure #2):BarcodeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField?.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
